@@ -1,9 +1,11 @@
 📌 Project Overview
+
 The goal of this project was to simulate a Trust & Safety Audit for Google Ads (AdWords). In this scenario, I acted as a T&S Analyst reviewing 100 ad submissions to detect policy violations, mitigate risks from "bad actors," and ensure platform integrity.
 
 This project demonstrates how data-driven decisions can be used to scale policy enforcement and protect users from harmful or misleading content.
 
 🛠️ Tech Stack & Skills
+
 Tool: Google Sheets / Microsoft Excel
 
 Analysis: Pivot Tables, Data Validation, Logical Functions (IF, AND, OR), SUBTOTAL for dynamic filtering.
